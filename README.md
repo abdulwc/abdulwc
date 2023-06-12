@@ -16,7 +16,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [AWS: Cloud Resume](https://github.com/abdulwc/aws-resume)
+  - [AWS: Cloud Resume](https://github.com/abdulwc/aws-abdulresume)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abdulwc/configure-ad)
