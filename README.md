@@ -20,7 +20,7 @@
 
 - <b>Microsoft Azure Tutorials</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abdulwc/configure-ad) [Coming Soon]
+  - [Configuring On-premises Active Directory within Azure VMs] [Coming Soon]
 
 
 <h2>🤳Connect with me:</h2>
