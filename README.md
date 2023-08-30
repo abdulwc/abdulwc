@@ -18,7 +18,10 @@
 - <b>Amazon Web Services</b>
   - [AWS: Cloud Resume](https://github.com/abdulwc/aws-abdulresume)
   
-- <b>Microsoft Azure Tutorials</b>
+- <b>Microsoft Azure </b>
+
+Tutorials:
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs] [Coming Soon]
     
