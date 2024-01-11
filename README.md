@@ -17,7 +17,8 @@
 
 - <b>Amazon Web Services</b>
   - [AWS: Cloud Resume](https://github.com/abdulwc/aws-abdulresume)
-  
+- <b>Python</b>
+  - [Python: Password Generator](https://github.com/abdulwc/password-generator)
 - <b>Microsoft Azure </b><br>
 <br>Tutorials:
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
