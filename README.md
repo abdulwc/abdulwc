@@ -33,4 +33,4 @@
 [<img align="left" alt="Abdul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/awahabc/
+[linkedin]: https://www.linkedin.com/in/abdul-c-1637a1266/
