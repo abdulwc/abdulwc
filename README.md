@@ -20,9 +20,9 @@
 - <b>Python</b>
   - [Python: Password Generator](https://github.com/abdulwc/password-generator)
 - <b>Microsoft Azure </b><br>
-<br>Tutorials:
+<br>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs] [Coming Soon]
+  - [Configuring On-premises Active Directory within Azure VMs] (https://github.com/abdulwc/configure-ad)]
     
 
 
