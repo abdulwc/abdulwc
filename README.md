@@ -1,7 +1,7 @@
 <h1>Hi, I'm Abdul, an aspiring <a href="https://www.linkedin.com/in/abdul-c-1637a1266/">IT Professional</a>👨‍💻</h1>
 
 ### 
-<h3 align="left">About Me</h3>
+<h2>About Me:</h3>
 
 With a strong foundation in IT and a passion for protecting digital assets, I am committed to applying my knowledge to ensure the security and efficiency of IT systems. My academic background and hands-on projects have provided me with a deep understanding of IT environments, and I’m continuously expanding my skills to contribute effectively. I’m eager to leverage my technical expertise and problem-solving abilities to make a positive impact in the field.
 
@@ -16,7 +16,8 @@ With a strong foundation in IT and a passion for protecting digital assets, I am
 - <b>Python</b>
   - [Python: Password Generator](https://github.com/abdulwc/password-generator)
 
-### Languages and tools ⚙️
+### 
+<h2>Languages and tools ⚙️:</h2>
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  
