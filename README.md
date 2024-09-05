@@ -1,5 +1,21 @@
 <h1>Hi, I'm Abdul, an aspiring <a href="https://www.linkedin.com/in/abdul-c-1637a1266/">IT Professional</a>👨‍💻</h1>
 
+### About Me
+<h3 align="left">About Me</h3>
+
+With a strong foundation in IT and a passion for protecting digital assets, I am committed to applying my knowledge to ensure the security and efficiency of IT systems. My academic background and hands-on projects have provided me with a deep understanding of IT environments, and I’m continuously expanding my skills to contribute effectively. I’m eager to leverage my technical expertise and problem-solving abilities to make a positive impact in the field.
+
+### Projects
+<h2>Information Technology Projects:</h2>
+
+- <b>Amazon Web Services</b>
+  - [AWS: Cloud Resume](https://github.com/abdulwc/aws-abdulresume)
+- <b>Microsoft Azure </b><br>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abdulwc/configure-ad)
+- <b>Python</b>
+  - [Python: Password Generator](https://github.com/abdulwc/password-generator)
+
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
@@ -13,15 +29,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/>
 </p>
 
-<h2>Information Technology Projects:</h2>
 
-- <b>Amazon Web Services</b>
-  - [AWS: Cloud Resume](https://github.com/abdulwc/aws-abdulresume)
-- <b>Microsoft Azure </b><br>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abdulwc/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/abdulwc/configure-ad)
-- <b>Python</b>
-  - [Python: Password Generator](https://github.com/abdulwc/password-generator)
 
     
 
